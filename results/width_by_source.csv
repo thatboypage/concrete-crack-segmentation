@@ -1,0 +1,9 @@
+split,source,images,label_width_px,predicted_width_px,width_ratio,length_ratio,bias_raw_px,bias_after_validation_correction_px
+test_seen,CRACK500,342,15.00,17.97,1.27,0.88,3.35,1.15
+test_seen,GAPS384,40,3.00,5.00,1.39,0.99,1.54,0.44
+test_seen,Misc,31,15.00,16.89,1.12,0.96,1.99,-0.61
+test_seen,Rissbilder,311,3.47,5.00,1.53,1.14,1.85,0.78
+test_seen,Volker,39,9.00,7.00,0.78,0.97,-2.00,-3.26
+test_unseen,CFD,117,3.00,6.21,2.33,0.84,4.00,2.74
+test_unseen,Ceramic,80,4.66,6.21,1.67,1.08,2.32,1.13
+test_unseen,DeepCrack,438,5.00,9.00,1.86,0.86,4.25,2.74

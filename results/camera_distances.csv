@@ -1,0 +1,4 @@
+camera,max_distance_cm,wall_width_per_photo_cm,mm_per_pixel
+"Phone main camera, 12 MP (70 deg)",7.20,10.08,0.025
+"Phone 2x telephoto, 12 MP (38 deg)",14.64,10.08,0.025
+"Phone 3x telephoto, 12 MP (25 deg)",22.73,10.08,0.025
